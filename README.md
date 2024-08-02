@@ -64,11 +64,21 @@ Programmable Logic Controllers (PLCs) play a critical role in industrial automat
 
 ### Running the Project
 
+1. **Clone the Repository**: 
+   ```bash
+   git clone https://github.com/你的用户名/仓库名.git
+   cd 仓库名
+   
 2. **Install Dependencies**:
    Follow the instructions in the `setup.sh` script to install all required software packages.
 
 3. **Configure the Environment**:
    Set up your environment variables and configurations as outlined in the `config.md` file.
+
+4. **Run the Master Control Script**:
+   ```bash
+   python3 master_control_script.py
+
 
 ### Workflow
 
